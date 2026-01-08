@@ -3,7 +3,7 @@ import { MessageCircle } from "lucide-react";
 
 export const Contact = () => {
   // WhatsApp link - replace with actual number
-  const whatsappLink = "https://wa.me/919999999999?text=Hi%20PixelMint%2C%20I%27m%20interested%20in%20a%20website";
+  const whatsappLink = "https://wa.me/917719970771?text=Yes%20we%20are%20interested";
 
   return (
     <section id="contact" className="py-20 px-6">
