@@ -23,7 +23,7 @@ export const WorkShowcase = () => {
   return <section id="work" className="py-20 px-6">
       <div className="container mx-auto max-w-4xl">
         <div className="text-center mb-12">
-          <h2 className="text-3xl sm:text-4xl font-semibold text-foreground mb-3">Turf Website</h2>
+          <h2 className="text-3xl sm:text-4xl font-semibold text-foreground mb-3">Our Work</h2>
           <p className="text-muted-foreground text-lg">
             Click any website below to view our real work.
           </p>
