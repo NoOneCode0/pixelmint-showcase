@@ -11,7 +11,7 @@ const workItems: WorkItem[] = [{
   description: "Modern clinic website with online booking",
   url: "https://example.com/smilecare"
 }, {
-  title: "Bright Dental Studio",
+  title: "Culinary Journey",
   description: "Clean design for family dentistry",
   url: "https://example.com/brightdental"
 }, {
