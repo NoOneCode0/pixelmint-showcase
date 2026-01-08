@@ -9,15 +9,15 @@ interface WorkItem {
 const workItems: WorkItem[] = [{
   title: "SmileCare Dental",
   description: "Modern clinic website with online booking",
-  url: "https://example.com/smilecare"
+  url: "https://dentistproto.netlify.app/"
 }, {
   title: "Culinary Journey",
-  description: "Clean design for family dentistry",
-  url: "https://example.com/brightdental"
+  description: "Beautiful restaurant website design",
+  url: "https://amazing-licorice-9dd931.netlify.app/"
 }, {
-  title: "Pearl Orthodontics",
-  description: "Professional orthodontic practice site",
-  url: "https://example.com/pearlortho"
+  title: "Turf Website",
+  description: "Professional sports turf booking site",
+  url: "https://samyakturf.netlify.app/"
 }];
 export const WorkShowcase = () => {
   return <section id="work" className="py-20 px-6">
