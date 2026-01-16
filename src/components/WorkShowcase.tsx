@@ -7,6 +7,10 @@ interface WorkItem {
   url: string;
 }
 const workItems: WorkItem[] = [{
+  title: "Photoshoot Website",
+  description: "Stunning photography portfolio and booking",
+  url: "https://photoshootproto.netlify.app/"
+}, {
   title: "SmileCare Dental",
   description: "Modern clinic website with online booking",
   url: "https://dentistproto.netlify.app/"
@@ -18,10 +22,6 @@ const workItems: WorkItem[] = [{
   title: "Turf Website",
   description: "Professional sports turf booking site",
   url: "https://samyakturf.netlify.app/"
-}, {
-  title: "Photoshoot Website",
-  description: "Stunning photography portfolio and booking",
-  url: "https://photoshootproto.netlify.app/"
 }];
 export const WorkShowcase = () => {
   return <section id="work" className="py-20 px-6">
