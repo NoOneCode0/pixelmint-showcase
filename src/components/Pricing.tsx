@@ -15,7 +15,7 @@ export const Pricing = () => {
             <span className="text-5xl font-bold text-foreground">₹4,000</span>
           </div>
           
-          <p className="text-foreground font-medium mb-6">Complete website design, Extra domain charges required</p>
+          <p className="text-foreground font-medium mb-6">Complete website design, Extra Domain charges required</p>
           
           <ul className="space-y-3 text-left max-w-[200px] mx-auto">
             {features.map((feature, index) => <li key={index} className="flex items-center gap-3 text-muted-foreground">
